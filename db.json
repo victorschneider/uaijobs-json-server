@@ -1,0 +1,142 @@
+{
+  "vagas": [
+  ],
+  "feedbacks": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "email": "joaosilva@gmail.com",
+      "estrelas": 5,
+      "descricao": "Excelente serviço! Recomendo de olhos fechados!",
+      "data": "15/06/2024, 14:00:00",
+      "categoria": "positivo"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Oliveira",
+      "email": "mariaoliveira@gmail.com",
+      "estrelas": 2,
+      "descricao": "Não achei freelancers que se encaixassem no meu seguimento",
+      "data": "15/06/2024, 15:00:00",
+      "categoria": "negativo"
+    },
+    {
+      "id": "3",
+      "nome": "Pedro Fonseca",
+      "email": "pedrofonseca@gmail.com",
+      "estrelas": "5",
+      "descricao": "Adorei o site! Me ajudou a complementar a minha mensal e pagar contas sem atraso",
+      "data": "15/06/2024, 15:02:29",
+      "categoria": "positivo"
+    },
+    {
+      "id": "d1cc",
+      "nome": "Victor Schneider",
+      "email": "victor.schneider@uaijobs.com",
+      "estrelas": "5",
+      "descricao": "Site top",
+      "data": "24/06/2024, 00:54:00",
+      "categoria": "positivo"
+    }
+  ],
+  "admin": [
+    {
+      "id": "0",
+      "nome": "Victor Schneider",
+      "dataNasc": "2004-09-16",
+      "cpf": "13521637646",
+      "email": "victor.schneider@uaijobs.com",
+      "senha": "victor123",
+      "interesses": [
+        "Culinária",
+        "Marketing"
+      ],
+      "cep": "32315-060",
+      "telefone": "31 99874-1609",
+      "Linkedin": "",
+      "imagem": "../../img/Usuarios/iconeUsuario.png",
+      "vagasPublicadas": [],
+      "UserPremium": true
+    },
+    {
+      "id": "1",
+      "nome": "Igor Maia",
+      "dataNasc": "dd/mm/aaaa",
+      "cpf": "123.456.789-10",
+      "email": "igor@uaijobs.com",
+      "senha": "igor123",
+      "interesses": [],
+      "cep": "xxxxx-xxx",
+      "telefone": "31 99999-9999",
+      "Linkedin": "",
+      "imagem": "../../img/Usuarios/iconeUsuario.png",
+      "vagasPublicadas": [],
+      "UserPremium": true
+    },
+    {
+      "id": "2",
+      "nome": "Guilherme",
+      "dataNasc": "dd/mm/aaaa",
+      "cpf": "123.456.789-10",
+      "email": "guilherme@uaijobs.com",
+      "senha": "guilherme123",
+      "interesses": [],
+      "cep": "xxxxx-xxx",
+      "telefone": "31 99999-9999",
+      "Linkedin": "",
+      "imagem": "../../img/Usuarios/iconeUsuario.png",
+      "vagasPublicadas": [],
+      "UserPremium": true
+    },
+    {
+      "id": "3",
+      "nome": "Luis",
+      "dataNasc": "dd/mm/aaaa",
+      "cpf": "123.456.789-10",
+      "email": "luis@uaijobs.com",
+      "senha": "luis123",
+      "interesses": [],
+      "cep": "xxxxx-xxx",
+      "telefone": "31 99999-9999",
+      "Linkedin": "",
+      "imagem": "../../img/Usuarios/iconeUsuario.png",
+      "vagasPublicadas": [],
+      "UserPremium": true
+    },
+    {
+      "id": "4",
+      "nome": "Thiago",
+      "dataNasc": "dd/mm/aaaa",
+      "cpf": "123.456.789-10",
+      "email": "thiago@uaijobs.com",
+      "senha": "thiago123",
+      "interesses": [],
+      "cep": "xxxxx-xxx",
+      "telefone": "31 99999-9999",
+      "Linkedin": "",
+      "imagem": "../../img/Usuarios/iconeUsuario.png",
+      "vagasPublicadas": [],
+      "UserPremium": true
+    },
+    {
+      "id": "5",
+      "nome": "Vitor Prates",
+      "dataNasc": "dd/mm/aaaa",
+      "cpf": "123.456.789-10",
+      "email": "vitor.prates@uaijobs.com",
+      "senha": "vitor123",
+      "interesses": [],
+      "cep": "xxxxx-xxx",
+      "telefone": "31 99999-9999",
+      "Linkedin": "",
+      "imagem": "../../img/Usuarios/iconeUsuario.png",
+      "vagasPublicadas": [],
+      "UserPremium": true
+    }
+  ],
+  "empregadores": [
+    
+  ],
+  "freelancers": [
+  ]
+}
