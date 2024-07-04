@@ -127,311 +127,6 @@
       ],
       "online": true,
       "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "92b1",
-      "nome": "teste limite 0",
-      "categoria": "Culinária",
-      "descricao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719150869/suvsqir0dqdtm3bgejr0.jpg",
-      "valor": "100",
-      "turno": "Manhã",
-      "local": 32687405,
-      "data": "2024-06-25",
-      "habilidades": [
-        "Constução civil."
-      ],
-      "empregador": "Teste",
-      "email": "luis325@gmail.com",
-      "telefone": "31985494832",
-      "cnpj": "5615120800",
-      "publicado": true,
-      "publicacao": "23/06/2024",
-      "candidatos": [],
-      "online": false,
-      "IDfreelancerEscolhido": "4472"
-    },
-    {
-      "id": "5c84",
-      "nome": "Limpeza",
-      "categoria": "Limpeza",
-      "descricao": "Preciso que alguém limpe meu apartamento novo",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719520529/qfie777mkkffneskbder.png",
-      "valor": "250",
-      "turno": "Tarde",
-      "local": 32315060,
-      "data": "2024-06-28",
-      "habilidades": [
-        "Passar pano"
-      ],
-      "empregador": "Suely Schneider",
-      "email": "suely@gmail.com",
-      "telefone": "31996021004",
-      "cnpj": "63612852604",
-      "publicado": true,
-      "publicacao": "27/06/2024",
-      "candidatos": [
-        "1490",
-        "4472"
-      ],
-      "online": false,
-      "IDfreelancerEscolhido": "1490"
-    },
-    {
-      "id": "8676",
-      "nome": "VagaLonge",
-      "categoria": "Outros",
-      "descricao": "vaga legal",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719678555/rp0qlj0yudh8zp1qfl2e.jpg",
-      "valor": "550",
-      "turno": "Manhã",
-      "local": 15076610,
-      "data": "2024-06-30",
-      "habilidades": [
-        "Direção"
-      ],
-      "empregador": "Victor Empregos",
-      "email": "empregos@gmail.com",
-      "cnpj": "12345676152",
-      "publicado": true,
-      "publicacao": "29/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "6fa2",
-      "nome": "Vaga teste",
-      "categoria": "Finanças",
-      "descricao": "teste",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719731459/rvsd9fxvskbbnccx5ebo.jpg",
-      "valor": "100",
-      "turno": "Manhã",
-      "local": 32687405,
-      "data": "2024-07-01",
-      "habilidades": [
-        "Constução civil."
-      ],
-      "empregador": "Luisin do Job",
-      "email": "luis325@gmail.com",
-      "telefone": "31985494832",
-      "cnpj": "5615120800",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [
-        "4472"
-      ],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "b75d",
-      "nome": "teste limite 0",
-      "categoria": "Design",
-      "descricao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719756932/hlbxbofuphdkvnxz24m1.jpg",
-      "valor": "10010",
-      "turno": "Tarde",
-      "local": 32687405,
-      "data": "2024-07-03",
-      "habilidades": [
-        "Constução civil."
-      ],
-      "empregador": "Victor Empregos",
-      "email": "empregos@gmail.com",
-      "cnpj": "12345676152",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "be25",
-      "nome": "Teste da imagem 2",
-      "categoria": "Design",
-      "descricao": "aaaaaaaaaaaaaaaaaaa",
-      "imagem": "https://ucarecdn.com/fee4efa1-a8e7-48af-8cd5-37b135be865c/",
-      "valor": "500",
-      "turno": "Manhã",
-      "local": 32687,
-      "data": "2024-07-02",
-      "habilidades": [
-        "Fotografia",
-        " proatividade"
-      ],
-      "empregador": "Luisin do Job",
-      "email": "luis325@gmail.com",
-      "telefone": "31985494832",
-      "cnpj": "5615120800",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "3167",
-      "nome": "Teste da imagem 2",
-      "categoria": "Trabalhos Manuais",
-      "descricao": "aaaaaaaaaaaaaaa",
-      "imagem": "https://ucarecdn.com/aefc27f2-4b2b-4a42-aa87-7d5f4d275aef/",
-      "valor": "500",
-      "turno": "Tarde",
-      "local": 32687,
-      "data": "2024-07-01",
-      "habilidades": [
-        "aaa"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "9671",
-      "nome": "teste 3",
-      "categoria": "Trabalhos Manuais",
-      "descricao": "aaaaa",
-      "imagem": "https://ucarecdn.com/f4cbc715-7d83-4d1c-b1e9-6a6c61a423a2/",
-      "valor": "500",
-      "turno": "Manhã",
-      "local": 32687,
-      "data": "2024-07-01",
-      "habilidades": [
-        "Fotografia",
-        " proatividade"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "de40",
-      "nome": "Teste da imagem 2",
-      "categoria": "Trabalhos Manuais",
-      "descricao": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "imagem": "https://ucarecdn.com/fc128a92-71fe-4b36-858c-e8aa4f4e1ab6/-/crop/916x676/183,27/-/preview/",
-      "valor": "100",
-      "turno": "Manhã",
-      "local": 32687,
-      "data": "2024-07-05",
-      "habilidades": [
-        "AAA"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "02e6",
-      "nome": "CCCCCCCCCCCCCC",
-      "categoria": "Categoria",
-      "descricao": "AAAAAAAAAAAAAAAA",
-      "imagem": "https://ucarecdn.com/8611585d-aefe-4a7d-9553-5c2f85c26b02/",
-      "valor": "750",
-      "turno": "Tarde",
-      "local": 32687,
-      "data": "2024-07-04",
-      "habilidades": [
-        "BWEAF"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "ffc1",
-      "nome": "ultimo teste",
-      "categoria": "Outros",
-      "descricao": "AAAAAAAAAAAAAAAAAAAAAAAA",
-      "imagem": "https://ucarecdn.com/3f51c01f-62d5-4557-a78d-929f2f7f79a5/",
-      "valor": "750",
-      "turno": "Manhã",
-      "local": 32687,
-      "data": "2024-07-02",
-      "habilidades": [
-        "Fotografia",
-        " proatividade"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "24f6",
-      "nome": "Teste da imagem",
-      "categoria": "Design",
-      "descricao": "QDAWFF",
-      "imagem": "https://ucarecdn.com/f6f7338b-51bc-497a-9f8d-ca4587aebf9f/",
-      "valor": "750",
-      "turno": "Noite",
-      "local": 32687,
-      "data": "2024-06-22",
-      "habilidades": [
-        "BWEAF"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
-    },
-    {
-      "id": "2c75",
-      "nome": "Teste da imagem 3",
-      "categoria": "Finanças",
-      "descricao": "ASAAA",
-      "imagem": "https://ucarecdn.com/ea197e4c-3634-4087-bc09-2de8981e414c/",
-      "valor": "100",
-      "turno": "Noite",
-      "local": 32687,
-      "data": "2024-07-05",
-      "habilidades": [
-        "aaa"
-      ],
-      "empregador": "Conta nova",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "telefone": "3185494832",
-      "cnpj": "98732165425123",
-      "publicado": true,
-      "publicacao": "30/06/2024",
-      "candidatos": [],
-      "online": true,
-      "IDfreelancerEscolhido": null
     }
   ],
   "feedbacks": [
@@ -593,7 +288,6 @@
       "bio": "A Uaijobs é meu a melhor do mundo",
       "UserPremium": true,
       "vagasPublicadas": [
-        "6fa2"
       ]
     },
     {
@@ -611,8 +305,6 @@
       "bio": "",
       "UserPremium": false,
       "vagasPublicadas": [
-        "8676",
-        "b75d"
       ]
     },
     {
@@ -631,104 +323,6 @@
       "bio": "",
       "UserPremium": false,
       "vagasPublicadas": []
-    },
-    {
-      "id": "2af3",
-      "nome": "a",
-      "dataNascimento": "2004-09-16",
-      "cpf": "123",
-      "telefone": "123",
-      "cep": "123",
-      "linkedin": "1",
-      "email": "a@g",
-      "senha": "123",
-      "interesses": [
-        "Culinária",
-        "Fotografia",
-        "Redação",
-        "Tradução"
-      ],
-      "tipo": "empregador",
-      "imagem": "../../img/Usuarios/iconeUsuario.png",
-      "bio": "",
-      "UserPremium": false,
-      "vagasPublicadas": []
-    },
-    {
-      "id": "30c9",
-      "nome": "Suely Schneider",
-      "dataNascimento": "1966-10-15",
-      "cpf": "63612852604",
-      "telefone": "31996021004",
-      "cep": "32315060",
-      "linkedin": "linkedin",
-      "email": "suely@gmail.com",
-      "senha": "12345",
-      "interesses": [
-        "Culinária",
-        "Videoclipes",
-        "Computação"
-      ],
-      "tipo": "empregador",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719764251/kmujrvwcwqb4mp0rqb16.jpg",
-      "bio": "",
-      "UserPremium": false,
-      "vagasPublicadas": [
-        "5c84"
-      ]
-    },
-    {
-      "id": "6815",
-      "nome": "Teste redirecionamento",
-      "dataNascimento": "2005-02-17",
-      "cpf": "12312312345",
-      "telefone": "3185494832",
-      "cep": "32687405",
-      "linkedin": "a",
-      "email": "luishsampaioviera@gmail.com",
-      "senha": "12345",
-      "interesses": [],
-      "tipo": "empregador",
-      "imagem": "../../img/Usuarios/iconeUsuario.png",
-      "bio": "",
-      "UserPremium": false,
-      "vagasPublicadas": []
-    },
-    {
-      "id": "349e",
-      "nome": "Luis Henrique",
-      "dataNascimento": "1985-02-22",
-      "cpf": "12345678912345",
-      "telefone": "31985494832",
-      "cep": "32687405",
-      "linkedin": "",
-      "email": "luishs@gmail.com",
-      "senha": "12345",
-      "interesses": [],
-      "tipo": "empregador",
-      "imagem": "https://res.cloudinary.com/df7rlfmhg/image/upload/v1719666793/seta57pfemkj6zhtqaqm.jpg",
-      "bio": "Estudante de Analise e desenvolvimento de sistemas, dedicado, vencedor de inumeros premios.",
-      "UserPremium": false,
-      "vagasPublicadas": []
-    },
-    {
-      "id": "b30a",
-      "nome": "Conta nova",
-      "dataNascimento": "2005-02-17",
-      "cpf": "98732165425123",
-      "telefone": "3185494832",
-      "cep": "32687405",
-      "linkedin": "",
-      "email": "luishsampaiovier5w1a@gmail.com",
-      "senha": "12345",
-      "interesses": [],
-      "tipo": "empregador",
-      "imagem": "../../img/Usuarios/iconeUsuario.png",
-      "bio": "",
-      "UserPremium": true,
-      "vagasPublicadas": [
-        "3167"
-      ]
     }
   ],
   "freelancers": [
@@ -760,9 +354,6 @@
       "bio": "O ultimo romantico da Terra, especialista em amar, doutor em paixão, mestre em sentimentos, o homem que tem como o auge da sua vida, sua mulher, sua felicidade.",
       "UserPremium": true,
       "vagasCandidatadas": [
-        "3596",
-        "9fd3",
-        "3"
       ]
     },
     {
@@ -784,8 +375,6 @@
       "bio": "",
       "UserPremium": false,
       "vagasCandidatadas": [
-        "0",
-        "5"
       ]
     },
     {
@@ -812,10 +401,7 @@
       "bio": "",
       "UserPremium": true,
       "vagasCandidatadas": [
-        "0",
-        "6fa2"
-      ],
-      "vagasRealizadas": "6fa2"
+      ]
     },
     {
       "id": "1490",
@@ -839,9 +425,7 @@
       "bio": "Homem prestador de serviço, fiel e bem humorado",
       "UserPremium": false,
       "vagasCandidatadas": [
-        "5c84"
-      ],
-      "vagasRealizadas": "5c84"
+      ]
     },
     {
       "id": "3da9",
